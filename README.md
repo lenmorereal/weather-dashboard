@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Weather Dashboard Project Proposal
-
+A React-based Weather Dashboard that displays weather information using a public API.
 ## 1. Project Idea
 **Chosen Project:** Weather Dashboard
 
