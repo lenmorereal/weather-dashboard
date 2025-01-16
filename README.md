@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather Dashboard Project Proposal
 
 ## 1. Project Idea
@@ -39,3 +40,13 @@ I chose the Weather Dashboard project because I am fascinated by how weather imp
 **Week 5:**
 - Submit the project for evaluation.
 
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> 20ea1dd (Initial commit)
